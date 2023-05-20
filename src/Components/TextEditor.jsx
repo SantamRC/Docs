@@ -10,7 +10,7 @@ function TextEditor() {
       <Toolbar />
       <Editor
         toolbarClassName="flex sticky !justify-center mx-auto mt-5"
-        editorClassName="mt-6 p-10 bg-white shadow-lg max-w-5xl mx-auto mb-12 border h-full"
+        editorClassName="bg-white shadow-lg max-w-5xl mx-auto border p-10 min-h-screen my-6"
       />
     </>
   );
