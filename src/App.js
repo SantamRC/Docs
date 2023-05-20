@@ -1,9 +1,10 @@
 import React from 'react'
-import 'quill/dist/quill.snow.css'
+
+import TextEditor from './Components/TextEditor'
 
 function App() {
   return (
-    <div>App</div>
+    <TextEditor />
   )
 }
 
