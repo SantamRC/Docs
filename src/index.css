@@ -19,3 +19,7 @@ code {
 .rdw-editor-wrapper {
   width: 100vw;
 }
+
+.public-DraftEditor-content {
+  overflow-y: hidden;
+}
